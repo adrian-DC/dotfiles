@@ -16,5 +16,6 @@ export PATH="$PATH:/Applications/RStudio.app/Contents/MacOS/pandoc"
 # Create aliases
 alias gs="git status"
 alias ll='ls -ltrGFh'
-
+alias ~="cd ~"
+alias f="open -a Finder ./"
 # done
