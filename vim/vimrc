@@ -1,0 +1,7 @@
+#######################################
+# Edición del editor de vim	      #
+# Autor: A. Lara 		      #
+#######################################
+set number
+set background=light
+colorscheme buttercream
