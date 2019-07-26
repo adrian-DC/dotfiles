@@ -1,0 +1,8 @@
+#################################
+# Autor: A. Lara	     	#
+# Fecha: Julio 2019		#
+# Configuración de git		#
+#################################
+
+git config -- global user.name "adrian-DC"
+git config -- global user.email "adrian.lara@datacivica.org"
