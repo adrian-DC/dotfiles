@@ -18,4 +18,10 @@ alias gs="git status"
 alias ll='ls -ltrGFh'
 alias ~="cd ~"
 alias f="open -a Finder ./"
+
+# Go back
+alias ..="cd ../"
+alias ...="cd ../../"
+alias .3="cd ../../../"
+
 # done
