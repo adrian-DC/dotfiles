@@ -2,14 +2,19 @@
 # Edición del editor de vim	      #
 # Autor: A. Lara 		      #
 #######################################
+set nocompatible
+
 " Show line numbers
-set number
+set relativenumber
 
 " Blink cursor on error instead of beeping
 set visualbell
 
 " Encoding
 set encoding=utf-8
+
+" Syntax
+syntax enable
 
 set background=light
 colorscheme buttercream
