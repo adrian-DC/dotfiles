@@ -1,7 +1,7 @@
-#######################################
-# Edición del editor de vim	      #
-# Autor: A. Lara 		      #
-#######################################
+"#######################################
+"# Edición del editor de vim	       #
+"# Autor: A. Lara 		       #
+"#######################################
 set nocompatible
 
 " Show line numbers
@@ -21,6 +21,3 @@ set hlsearch
 
 "Incremental search
 set incsearch
-
-set background=light
-colorscheme buttercream
