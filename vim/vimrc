@@ -16,5 +16,8 @@ set encoding=utf-8
 " Syntax
 syntax enable
 
+" Highlight matching search patterns
+set hlsearch
+
 set background=light
 colorscheme buttercream
