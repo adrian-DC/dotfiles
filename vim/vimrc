@@ -19,5 +19,8 @@ syntax enable
 " Highlight matching search patterns
 set hlsearch
 
+"Incremental search
+set incsearch
+
 set background=light
 colorscheme buttercream
