@@ -13,11 +13,15 @@ export LSCOLORS=ExFxBxDxCxegedabagacad
 export PATH="$PATH:/Applications/RStudio.app/Contents/MacOS/pandoc"
 
 
-# Create aliases
-alias gs="git status"
+# Create shell aliases
 alias ll='ls -ltrGFh'
 alias ~="cd ~"
 alias f="open -a Finder ./"
+
+# Creat git aliases
+alias gs="git status"
+alias clone = "git clone"
+alias all="git add ."
 
 # Go back
 alias ..="cd ../"
