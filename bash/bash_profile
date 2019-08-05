@@ -20,7 +20,7 @@ alias f="open -a Finder ./"
 
 # Creat git aliases
 alias gs="git status"
-alias clone = "git clone"
+alias clone="git clone"
 alias all="git add ."
 
 # Go back
