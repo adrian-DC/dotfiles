@@ -18,7 +18,8 @@ alias ll="ls -ltrGFh"
 alias ~="cd ~"
 alias f="open -a Finder ./"
 alias c="clear"                             
-
+alias f="open -a Finder ./"
+      
 # Creat git aliases
 alias gs="git status"
 alias clone="git clone"
