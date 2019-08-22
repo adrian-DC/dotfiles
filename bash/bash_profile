@@ -24,6 +24,7 @@ alias f="open -a Finder ./"
 alias gs="git status"
 alias clone="git clone"
 alias all="git add ."
+alias fhere="find . -name "
 
 # Go back
 alias ..="cd ../"
